@@ -1,6 +1,6 @@
 # Assignment 3 & 4
 
-## Unix Utilities
+## Description
 Complete the OCaml functions in the provided file
 
 ### Directions for Assignments
